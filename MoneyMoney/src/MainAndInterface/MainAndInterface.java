@@ -1,4 +1,4 @@
-package Interface;
+package MainAndInterface;
 
 import java.io.IOException;
 import java.util.TreeSet;
